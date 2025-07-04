@@ -1,185 +1,146 @@
-# <div align="center">👋 Hey there, I'm **Aydie**!</div>
+<!-- This README.md is designed to be visually appealing and professional, aligning with Aydie's brand identity. -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9E975&center=true&vCenter=true&width=600&height=80&lines=Full+Stack+Developer;Music+Producer;Problem+Solver;Creative+Technologist" alt="Typing SVG" />
+<!-- Brand Colors: -->
+
+<!-- Primary Background/Text (Dark Mode): #1F1247 (Dark Purple) -->
+
+<!-- Primary Text/Background (Light Mode): #FFFFFF (White) -->
+
+<!-- Accent/Highlight: #C9E975 (Light Green) -->
+
+<p align="center">
+<!-- This section would ideally feature your brand icon/logo. -->
+<!-- For Markdown, we'll use a placeholder or a simple text icon. -->
+<img src="https://placehold.co/100x100/1F1247/C9E975?text=AYDIE" alt="Aydie Icon" style="border-radius: 50%;">
+<h1 style="color: #1F1247;">Aydie's Developer Portfolio</h1>
+<p style="color: #1F1247;">Innovating at the Intersection of Technology and Creativity</p>
+</p>
+
+👋 About Me
+I am a passionate and versatile developer with a strong foundation in various programming languages and a keen interest in cutting-edge technologies like Machine Learning, Deep Learning, and Generative AI. My journey involves crafting robust solutions, visualizing complex data, and continuously exploring new frontiers in the tech world. I thrive on solving challenging problems and bringing innovative ideas to life.
+
+🚀 Skills & Tech Stack
+Here's a glimpse into my technical expertise, categorized for clarity. The progress bars conceptually represent my proficiency.
+
+💻 Programming Languages
+<!-- Progress bar color: #C9E975 (Light Green) -->
+
+Python: ████████████████████ (Expert)
+
+C++: ██████████████████-- (Advanced)
+
+Java: ████████████████---- (Intermediate)
+
+HTML: ████████████████████ (Expert)
+
+CSS: ██████████████████-- (Advanced)
+
+JavaScript: ████████████████---- (Intermediate)
+
+🧠 AI & Machine Learning
+<!-- Progress bar color: #C9E975 (Light Green) -->
+
+Machine Learning: ██████████████████-- (Advanced)
+
+Deep Learning: ████████████████---- (Intermediate)
+
+RAG (Retrieval Augmented Generation): ████████████████---- (Intermediate)
+
+LLMs (Large Language Models): ████████████████---- (Intermediate)
+
+AI / GenAI: ████████████████---- (Intermediate)
+
+📊 Data Visualization
+<!-- Progress bar color: #C9E975 (Light Green) -->
+
+Tableau: ██████████████████-- (Advanced)
+
+PowerBI: ████████████████---- (Intermediate)
+
+🛠️ Frameworks & MLOps
+<!-- Progress bar color: #C9E975 (Light Green) -->
+
+TensorFlow: ████████████████---- (Intermediate)
+
+Keras: ████████████████---- (Intermediate)
+
+PyTorch: ████████████████---- (Intermediate)
+
+MLOps: ████████████████---- (Intermediate)
+
+💡 LeetCode Progress
+<!-- This section is designed to be a prominent, attractive circular display of solved problems. -->
+
+<!-- In a web rendering, this would be a circular graphic with a percentage fill, using #C9E975 as the fill color and #1F1247 for the background of the circle. -->
+
+<p align="center">
+<div style="
+width: 150px;
+height: 150px;
+border-radius: 50%;
+background-color: #1F1247; /* Dark Purple for background /
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+color: #FFFFFF; / White text for contrast /
+font-weight: bold;
+font-size: 1.2em;
+border: 5px solid #C9E975; / Light Green border /
+box-shadow: 0 0 15px rgba(201, 233, 117, 0.7); / Light Green glow */
+">
+<span style="font-size: 2em; color: #C9E975;">100+</span> <!-- Example: Replace with actual count -->
+<span style="font-size: 0.8em;">LeetCode Problems</span>
+<span>Solved!</span>
 </div>
+<br>
+<a href="https://leetcode.com/aydie" target="_blank" style="color: #C9E975; text-decoration: none;">View My LeetCode Profile &rarr;</a>
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aydiegithub&label=Profile%20views&color=C9E975&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-C9E975?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Lives-India-C9E975?style=flat-square" alt="Lives" />
-</div>
+🔗 Connect With Me
+You can find me across various platforms. Feel free to connect!
 
----
+<p align="center">
+<!-- Use icons where possible, otherwise text. For Markdown, emojis are a good substitute for visual icons. -->
+<!-- Icon colors would ideally be #C9E975 (Light Green) on a #1F1247 (Dark Purple) background, or vice-versa for light mode. -->
+<a href="https://aydie.in" target="_blank" style="margin: 0 10px;">
+<img src="https://img.shields.io/badge/Website-AYDIE-1F1247?style=for-the-badge&logo=google-chrome&logoColor=C9E975" alt="Website">
+</a>
+<a href="https://linkedin.com/in/aydiemusic" target="_blank" style="margin: 0 10px;">
+<img src="https://img.shields.io/badge/LinkedIn-aydiemusic-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://leetcode.com/aydie" target="_blank" style="margin: 0 10px;">
+<img src="https://img.shields.io/badge/LeetCode-aydie-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+<a href="https://hackerrank.com/aydie" target="_blank" style="margin: 0 10px;">
+<img src="https://img.shields.io/badge/HackerRank-aydie-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+</a>
+<a href="https://github.com/aydiegithub" target="_blank" style="margin: 0 10px;">
+<img src="https://img.shields.io/badge/GitHub-aydiegithub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://gitlab.com/aydie" target="_blank" style="margin: 0 10px;">
+<img src="https://img.shields.io/badge/GitLab-aydie-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+</a>
+<a href="https://youtube.com/aydiemuisc" target="_blank" style="margin: 0 10px;">
+<img src="https://img.shields.io/badge/YouTube-AydieMusic-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://instagram.com/aydiemusic" target="_blank" style="margin: 0 10px;">
+<img src="https://img.shields.io/badge/Instagram-aydiemusic-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+</p>
 
-## <div align="center">🚀 **About Me**</div>
+<p align="center">
+<small style="color: #1F1247;">&copy; 2025 Aydie. All rights reserved.</small>
+</p>
 
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="0" style="border: none;">
-    <tr>
-      <td width="50%" valign="top" style="border: none;">
-        <h3 style="color: #C9E975;">💻 Developer & Creator</h3>
-        <p style="color: #1F1247;">
-          Passionate about crafting elegant solutions through code and music. 
-          I blend technical expertise with creative vision to build meaningful digital experiences.
-        </p>
-        <p style="color: #1F1247;">
-          🎵 When I'm not coding, you'll find me producing music and exploring the intersection of technology and creativity.
-        </p>
-      </td>
-      <td width="50%" valign="top" style="border: none;">
-        <h3 style="color: #C9E975;">🎯 LeetCode Progress</h3>
-        <div align="center">
-          <img src="https://leetcard.jacoblin.cool/aydie?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Dark Mode / Light Mode Consideration: -->
 
----
+<!-- For a true dark/light mode experience, these colors would be managed via CSS variables and media queries (prefers-color-scheme). -->
 
-## <div align="center">🛠️ **Tech Stack & Skills**</div>
+<!-- #1F1247 (Dark Purple) would be the primary background in dark mode, with #FFFFFF (White) as text. -->
 
-### **Programming Languages**
-<div align="center">
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-1F1247?style=for-the-badge&logo=javascript&logoColor=C9E975)
-![Python](https://img.shields.io/badge/-Python-1F1247?style=for-the-badge&logo=python&logoColor=C9E975)
-![Java](https://img.shields.io/badge/-Java-1F1247?style=for-the-badge&logo=java&logoColor=C9E975)
-![C++](https://img.shields.io/badge/-C++-1F1247?style=for-the-badge&logo=cplusplus&logoColor=C9E975)
-![TypeScript](https://img.shields.io/badge/-TypeScript-1F1247?style=for-the-badge&logo=typescript&logoColor=C9E975)
+<!-- #FFFFFF (White) would be the primary background in light mode, with #1F1247 (Dark Purple) as text. -->
 
-</div>
+<!-- #C9E975 (Light Green) would serve as the consistent accent color in both modes. -->
 
-### **Frontend Development**
-<div align="center">
-  
-![React](https://img.shields.io/badge/-React-1F1247?style=for-the-badge&logo=react&logoColor=C9E975)
-![Vue.js](https://img.shields.io/badge/-Vue.js-1F1247?style=for-the-badge&logo=vue.js&logoColor=C9E975)
-![HTML5](https://img.shields.io/badge/-HTML5-1F1247?style=for-the-badge&logo=html5&logoColor=C9E975)
-![CSS3](https://img.shields.io/badge/-CSS3-1F1247?style=for-the-badge&logo=css3&logoColor=C9E975)
-![Tailwind](https://img.shields.io/badge/-Tailwind-1F1247?style=for-the-badge&logo=tailwindcss&logoColor=C9E975)
-
-</div>
-
-### **Backend Development**
-<div align="center">
-  
-![Node.js](https://img.shields.io/badge/-Node.js-1F1247?style=for-the-badge&logo=node.js&logoColor=C9E975)
-![Express.js](https://img.shields.io/badge/-Express.js-1F1247?style=for-the-badge&logo=express&logoColor=C9E975)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1F1247?style=for-the-badge&logo=mongodb&logoColor=C9E975)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1F1247?style=for-the-badge&logo=postgresql&logoColor=C9E975)
-![MySQL](https://img.shields.io/badge/-MySQL-1F1247?style=for-the-badge&logo=mysql&logoColor=C9E975)
-
-</div>
-
-### **Tools & Platforms**
-<div align="center">
-  
-![Git](https://img.shields.io/badge/-Git-1F1247?style=for-the-badge&logo=git&logoColor=C9E975)
-![Docker](https://img.shields.io/badge/-Docker-1F1247?style=for-the-badge&logo=docker&logoColor=C9E975)
-![AWS](https://img.shields.io/badge/-AWS-1F1247?style=for-the-badge&logo=amazon-aws&logoColor=C9E975)
-![Linux](https://img.shields.io/badge/-Linux-1F1247?style=for-the-badge&logo=linux&logoColor=C9E975)
-![VS Code](https://img.shields.io/badge/-VS%20Code-1F1247?style=for-the-badge&logo=visual-studio-code&logoColor=C9E975)
-
-</div>
-
----
-
-## <div align="center">📊 **GitHub Analytics**</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aydiegithub&show_icons=true&count_private=true&hide_border=true&title_color=C9E975&icon_color=C9E975&text_color=1F1247&bg_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydiegithub&layout=compact&hide_border=true&title_color=C9E975&text_color=1F1247&bg_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aydiegithub&hide_border=true&background=FFFFFF&stroke=1F1247&ring=C9E975&fire=C9E975&currStreakNum=1F1247&sideNums=1F1247&currStreakLabel=C9E975&sideLabels=C9E975&dates=1F1247" alt="GitHub Streak" />
-</div>
-
----
-
-## <div align="center">🏆 **Problem Solving Journey**</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/LeetCode-500+-C9E975?style=for-the-badge&logo=leetcode&logoColor=1F1247" alt="LeetCode Problems" />
-        <br />
-        <sub><b>Problems Solved</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HackerRank-5⭐-C9E975?style=for-the-badge&logo=hackerrank&logoColor=1F1247" alt="HackerRank" />
-        <br />
-        <sub><b>HackerRank Rating</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Algorithms-Advanced-C9E975?style=for-the-badge&logo=algorithm&logoColor=1F1247" alt="Algorithms" />
-        <br />
-        <sub><b>Algorithm Mastery</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## <div align="center">🌟 **Brand Essence**</div>
-
-<div align="center">
-  <blockquote style="background: linear-gradient(135deg, #FFFFFF 0%, #1F1247 100%); padding: 20px; border-radius: 15px; border-left: 5px solid #C9E975;">
-    <h3 style="color: #C9E975; margin: 0;">💡 "Innovation through Code, Harmony through Music"</h3>
-    <p style="color: #FFFFFF; font-style: italic; margin: 10px 0 0 0;">
-      Bridging the gap between technical excellence and creative expression. 
-      Every line of code tells a story, every project builds a legacy.
-    </p>
-  </blockquote>
-</div>
-
----
-
-## <div align="center">🔗 **Let's Connect**</div>
-
-<div align="center">
-  <a href="https://aydie.in" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Website-aydie.in-C9E975?style=for-the-badge&logo=safari&logoColor=1F1247" alt="Website" />
-  </a>
-  <br /><br />
-  <a href="https://linkedin.com/in/aydiemusic" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/aydie" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://hackerrank.com/aydie" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://github.com/aydiegithub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://gitlab.com/aydie" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-  <br />
-  <a href="https://youtube.com/aydiemuisc" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://instagram.com/aydiemusic" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C9E975&height=120&section=footer" alt="Footer Wave" />
-</div>
-
-<div align="center">
-  <h3 style="color: #1F1247;">⚡ "Code. Create. Inspire." ⚡</h3>
-  <p style="color: #1F1247;">
-    <em>Building the future, one commit at a time.</em>
-  </p>
-</div>
+<!-- The img tags for social links use shields.io, which provides badges that adapt well to different backgrounds. -->
