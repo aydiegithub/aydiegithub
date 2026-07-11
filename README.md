@@ -1,89 +1,91 @@
 <div align="center">
 
-# AYDIE
+# Aditya Dinesh K
 
-### AI/ML Engineer | Full-Stack MLOps | Agentic AI Systems
+### AI/ML Engineer
+
+<pre>
+                                                          .                                                  
+                                                 .          .   .                                            
+                                      .   ...    .  .... .. ... ..  .                                        
+                    .       .   .  ...  ............,................   . .                                  
+                    .        ...  .......  ....;, .  .....rr:,,.,............    .        .                  
+                       .... .... .... ....,:     . .,ii;:,:,::;;;lllII.......  .....       .                 
+                       . ...........,,.     ..          ..,:tl;IllIl:i!:...........    ..                    
+                        .. ... ...:rI      ..      .; :iiti:,IIi;;liIIi;;,..... ...  . .                     
+                      ...... .....:,.   :  ..   .   ,;:ilI: :;;,..i:tITlIli:..... ......                     
+                   .............;l      . .:, .,,l::.::,,..:. ., ....,;ItFf;.,.............                  
+               ...............,:.        .  ..:,: .;,;, ;;.:; :I,.   .,!ilti;,.............    .             
+             . .................            ..:,, . .,:,,,.., ,Il:.. .:;.:TlI,,..............  . .           
+             .................:           ..,. .,;ltFxnrurrft!I::;II:,I.,IttI!,..................    .       
+           .................,:            .,i!fjxuzUCQwqqqqddpwYujT;,t!l;;!i.!:.................  .          
+         ..................,ij         .,:ItjuzXUYUCQwpppdddbddddmcfi!:li!Ii;Tr,......................       
+       .  ...................I       .,:i!TFncXYUCCLQwqddbbkhhhkbddqQJtl;.,. ti...................  .        
+        ....................,,      .::;i!TFnvzYJUJQmwqpdpdbkkkbkbdpqqu!li;::,.,.................. ..        
+        .................,,.,.      .,:;I!tFncUJCLCmwqppqqqdbbbbbdppqwUt;.,:TF:..,...................  . .   
+    ................,...,,,,,,i     .,::iI!FnXLQmmmqpqwqqpbbkkkbbdppwQXliIl;I:,,,,,..,,,.,.............      
+    .  ...............,...,,,,j    .,::;ltTfrcYJQwqdbqqqpdbbbkbbbdpqmLUl;TllI,,,,,,,,.,.,.,...........       
+    .................,,,,.,,,,;    ,:,:,.,::;;IfuXJLwwQQQUYcuuvzXUYYLQQc,;;TI,,,,,,,,,,,,,.................  
+  .. ................,,..,,,,,.:  .:,.. .,,.. ..:ITjucznjftiiII!TFnurvYU!,;;,,,,,,,,,,,,.................    
+    ..................,,,,,,.,:f  .,,,,,,:..,;;...,;rCqqCvfti::fffYYYULUfIII:,,,,,,,,,,,................     
+....................,,,,,.,,,,,x   ,,....;iIitl;..,;nwbbqwrj!FtfvJczxQwUflljui,,,,,,,,....,..............  . 
+ ...................,,,,,,,,,j;,   ,:;;:,:ITfFxFl;IIcwbddqmUccXYYYJQwpqJTjUCuQ;,,,,,,,,,,,..............   . 
+..  ............,,,,.,.,,,,,X!jFl..,:iFrvvuvunnjFliIcwbbbdbdppppppbbkbqLYQddJuf,,,,,,,,,,,,................  
+.   ..............,..,,,,,,.lFjT!:,,:IfvULCJJYcxtiifYqbbddbkkbbbbkhhhkpmYzddbJf,,,,,,,,,,.................   
+ .................,,,,,,,,,,ztFIll;:;iTuzLLJYznfrjIFXqhhbddddpdbkhhhkbdqCJwbdp;,,,,,,,,,,,.................  
+  .................,.,,,,,,,,ut;it;,;iIFxczvFI,;TjttuQdkkbUYpqUzQpbbbdqQXmqpml,,,,,,,,,,,,,,,..,.............
+...................,,,,,,,,,,,x!i:.,:::Iljjtl:..   ,IrYYFnjYLpdJjcLwwmmCndqYI,,,,,,,,,,,,,,,................ 
+. ................,..,,,,,,,,,:vT;..,,,,;i;;....  ,.;II:;itIFxvrnnXQCXLcxpLt:,,,,,,,,,,,.,..,,.............  
+ . .............,.....,,,,,,,,,ivxI....:;.  ,,.., ,;ItlilI;i!tliifnQuYznuUT,,,,,,,,,,,,,..,.,,,............  
+   ...................,,,,..,,,,,,, .  .,   ,. .;,!!unnJzJvYn:,. :xJvcut,,:,,,,,,,,,,,......,,...........    
+   ................,,.,,,,,,,,,,,,,Ti.. .:.,,,.,IIrfqmQkQqpXLLCnIFYuxul!,,,,,,,,,,,,,,,,,..,,,............ ..
+ . ...............,,,,,,,,,,,,,,,,,,I,  .,,;I;:;:IjzJLJCQpwqdqwXxcUxfTT:,,,,,,,,,,,,,,,,,,,,,................
+.  .............,,....,,,,,,,,,,,,,,II.  ..,.;;,::!l!!fjncXJLQzrFuvFTi,,,,,,,,,,,,,.,,,.,,,.................  
+   ...............,.,,..,,,,,,,,,,,,,.L.     .:::.l,:iiilTjrCvFtIiIix:,,,,,,,,,,,,,,,.,.,,.................  
+   ..................,,,,,..,,,,,,,,,,F,.     .,:;iIII!TnUXxnrfiI;FJQ,,,,,,,,,,,,,,,,,,,...,................ 
+  .................,,,,,,,,,,,,,,,,,,:u:,.    :,i::;ljjTfrrxTI!;!zQQq::::,,,,,,,,,,,,,,,,,,,,...,............
+  . ............,.....,.,.,,,,,,,,,,I!T,,,,.      ;:Il;::ii!i:IvQmmLant,,,,,,,,,,,,,,,,....................  
+  .  ...............,..,,,,,,,,,,,,Ti;j:,,,,,.    .,.     ,TFXJQmmmQobtl,,,,,,,,,,,,,..,,,.................. 
+     ....................,,,,,,,,IrI tjFi,,,,,,,,....,;ItfcYCLQmmmqaoht!I;,,,,,,,,,,,,,,..................   
+   ...................,,.,,,,,,:!!   tjrj!:,,,,,:,,,;!fnvzYCLmmmqkoooatTIItfI,,,,,,,,,,...................   
+  ..................,,,,,,,fflr.     ljjjjFfi,::::;::iTxcXJLQmwkoMMooaTTlIl!trnirI,,,,,.,,,,,............... 
+    ..............,.,.,lltl...     . .frrxnucu!i;;IIIItrvYCQCdoMMMooohFftll!tTt!!tFft!:,,,,................  
+  . ...............!Itl.........  ....!rxvzYJCmpYtTFFjxvYYCQooMMMMooortFT!l!TTTtl!!!t!fjlf,,............   . 
+      ........,!lfi,.......,,,.......,ifxvXCwqpdkhLUrrnnUbooMMMMoooooT!TfT!!tfffTl!!!!!!!tTjl!;.........     
+  .  ... .!!ITI,...,,,,,,,,,::,,,....:!fnXYJmpdkhaJwkwUvcpoMoMMoMMoom!!TTTft!tTfTTll!!!!!!!!!tTjTI!:...   .  
+     ;il!;,,,,,,.,,,::,,. .,:::,.....:TruYJCQqpz;;:;i!TrxrTXdoooMMoonltTfffTTTfT!ll!!!!!!!!!!!!!llll!l:,.    
+..;T!,,,..,.,,,,,:::::,,,,,.,,,,,....;lzvJCCQY!,  .,IfxnnFI;IxwMooMhf!tTTTffTfl!tttt!!!!!!!!!!!!!!lllll!t;.  
+ ,:;,...,,.,,,:::;::;;:::::;;:.,,,...:ljLULQUrli,. .:!nuFlIYvxfnwaoQt!TFfffTtTtTttttt!!l!ll!!!!!!!t!!!!!tl,  
+ .,;:.,,,,,:::::;;;;::,,;;ii;,,,,,,..;!wuLqbpLn!ii. ,!xj!vhkhkbdmCCFI!FTffTT!Ttttttttllll!!!!ttttttTTt!ltl:. 
+. ,::.,,,,::::;;;;;;;:..:;i;::,::,,..:!pkpLdbqUjI!:..IFlrbohahhhohQFITFfTff!l!t!ttTttt!!l!!tttttTtTTTtll!l;. 
+ ..:i;:,:::::;;;;;;;:;:..;;;:::::,,..;IFhdLpkbwXjTI :fj!QooahhhaakYtIfFFTTTf!lIl!tTTTtt!!ttTTTTtTTtTT!:!lIi. 
+  .,i;::,,:::;;;;;::::;,.:;::::::,,..:IfhbmqkkpQXF..,tjIlpaaahkaapviITTTfTtTT!!IltT!!!!!ttttTtttttTt!li!I;:, 
+   .;i:,,,:::;;;;:;::;;;.,:::;i;;:,..,ithbwmbkbqc.. ,TFIIckaahhahmxiTftTffTT!t!lff!!!tt!ttTTtttttttt!,II;;::.
+   .:I;,,,,::;;;;:::,:;i:.,;;ii;:,...;!Tkpwdkbc,  .;tFjFF!dkaaadzIITffFffTf!!ltttttt!ttTTt!!tt!ttlI:Il;:::::
+    .;;,,,,::;;;:::,,;;;;,.,;;ii;:,...;!Tkpwdkbc,  .;tFjFF!kkaaaakCFl!fTTFFf!t!!tft!tttttTtTTtTt!!tt!l:li;:;::
+    .:I,..,,:;;;:::,,:;:;:.,;i;;;:,,..,lTkdqdhpF, .,iTrrrrjbdhahmxIlfTTtfft!!tTfTt!tTttTTt!!!!!!t!I;.Ii;:::::
+     ,i,. .,:;;;;::,::;:;;:.,;i;;i:,..,iTzpqbkLT,..:itjrrrjhmkabUTittTffTt!ttTt!TTTtttTttlI!!!!!!I;::I;:::::,
+</pre>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aydiegithub/aydiegithub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aydiegithub/aydiegithub/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aydiegithub/aydiegithub/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
+<a href="https://aydie.in" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="mailto:business@aydie.in" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/aydiemusic" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/aydiegithub" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://gitlab.com/aydie" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
+<a href="https://youtube.com/@aydiemusic" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://instagram.com/aydiemusic" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://x.com/aydiemusic" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://leetcode.com/aydie" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="https://hackerrank.com/aydie" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
 
 </div>
-
----
-
-### **About Me**
-
-<p align="center">
-  Crafting intelligent, scalable systems at the intersection of <b>AI/ML</b>, <b>MLOps</b>, <b>Generative AI</b>, and <b>Agentic Systems</b>. 
-  <br/>
-  Passionate about building end-to-end pipelines, AI agents, and deploying cutting-edge solutions to real-world challenges.
-</p>
-
----
-
-### **My Tech Stack**
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,django,flask,git,docker,kubernetes,aws,gcp,azure,linux,postgres,mysql,mongodb,react&perline=9" />
-  </a>
-</p>
-
----
-
-### **Projects & Highlights**
-
-<p align="center">
-  I continuously build and update AI-powered systems, research experiments, and production-ready apps. 
-  <br/>
-  You can explore my repositories to see my latest work.
-</p>
-
----
-
-### **My GitHub Contributions**
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aydiegithub/aydiegithub/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aydiegithub/aydiegithub/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aydiegithub/aydiegithub/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-### **Connect With Me**
-
-<p align="center">
-  <a href="https://aydie.in" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="mailto:business@aydie.in" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/aydiemusic" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/aydiegithub" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://gitlab.com/aydie" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
-  <a href="https://youtube.com/@aydiemusic" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://instagram.com/aydiemusic" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://x.com/aydiemusic" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://leetcode.com/aydie" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://hackerrank.com/aydie" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-</p>
-
----
-
-### **GitHub Highlights**
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/themes/transparent.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/themes/default.svg">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aydiegithub&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/themes/transparent.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/themes/default.svg">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydiegithub&layout=compact&theme=transparent&hide_border=true" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <i>Building the future, one intelligent system at a time.</i>
-</p>
