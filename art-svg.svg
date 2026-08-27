@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="850" height="620" viewBox="0 0 850 620">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800" viewBox="0 0 1000 800">
   <defs>
-    <!-- Moving Linear Gradient for Left-to-Right Wave -->
+    <!-- Left-to-Right Moving Color Wave Gradient -->
     <linearGradient id="wave-gradient" x1="0%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="#ff007f" />
       <stop offset="25%" stop-color="#7928ca" />
@@ -8,12 +8,11 @@
       <stop offset="75%" stop-color="#ff007f" />
       <stop offset="100%" stop-color="#7928ca" />
       
-      <!-- Keyframe Animation moving the gradient position -->
       <animateTransform 
         attributeName="gradientTransform" 
         type="translate" 
         from="0,0" 
-        to="-850,0" 
+        to="-1000,0" 
         dur="4s" 
         repeatCount="indefinite" 
         gradientUnits="userSpaceOnUse" />
@@ -23,8 +22,8 @@
   <style>
     .ascii-text {
       font-family: "Courier New", Courier, monospace;
-      font-size: 8px;
-      line-height: 9px;
+      font-size: 10.5px;
+      font-weight: bold;
       fill: url(#wave-gradient);
       white-space: pre;
     }
@@ -32,67 +31,67 @@
 
   <rect width="100%" height="100%" fill="transparent" />
 
-  <text x="10" y="15" class="ascii-text">
-    <tspan x="10" dy="1.1em">                                                                                                                 </tspan>
-    <tspan x="10" dy="1.1em">                                         .                        .     .                                        </tspan>
-    <tspan x="10" dy="1.1em">                                 .        ...        ....  .....  .   . .                                        </tspan>
-    <tspan x="10" dy="1.1em">                    .        ..  .. ....  ..........,,............ ...  .. .     .                               </tspan>
-    <tspan x="10" dy="1.1em">                    .           .. .. ..... ....,:...  .,..ifI,,.,.............                                  </tspan>
-    <tspan x="10" dy="1.1em">                        ......... ..........i        ..,I:l:,:,:;i,;IIl;:....... ......        .                 </tspan>
-    <tspan x="10" dy="1.1em">                        .    ...... ...,..    .             ..,l!I;iI!lI;Ii............    .                     </tspan>
-    <tspan x="10" dy="1.1em">                         .. .... . .tv     . .        ,. i:ll:,;IIiilIii;i;,...... ...  . .                      </tspan>
-    <tspan x="10" dy="1.1em">                      . ..........,I .  ;.  .        .::;ltl,,iI;, ,IiT!tilI:,...   .....                        </tspan>
-    <tspan x="10" dy="1.1em">          .        ... ..........,i         ;. ..,:;,.,I;.,.,,. .. ,..,;iltxt..,......... ..                     </tspan>
-    <tspan x="10" dy="1.1em">               ................,,            ...:::.I:l...I;.;, i:..   .;iITt:;,............. .  .               </tspan>
-    <tspan x="10" dy="1.1em">              ..... ............              .,;,.. ........:,.;l!, ..:Ii.lfii.,.............     .             </tspan>
-    <tspan x="10" dy="1.1em">          ....................:,          . ,,.  .:;l!r!TT;;,:i,I:;::.:;..I!!i:...................  .            </tspan>
-    <tspan x="10" dy="1.1em">             .................        .     ..;ItfruzUCQqqwwqddpUfTjl:;iII:il,.f..................  .            </tspan>
-    <tspan x="10" dy="1.1em">  .        .................,lui         .,:ItrvXXYYJCQpdppppdddbppY!IiiIil!tt,!:,.,,............. .....         </tspan>
-    <tspan x="10" dy="1.1em">       .  ...................l,        .,;ItTxvXYJJJCLmwpddbbkkkkbbdpwQx:;:,. .rl..................    .         </tspan>
-    <tspan x="10" dy="1.1em">        .............,,...,,,     ..,:;;!TfrvcXYUJLQwwpdpdbkhkbbhddqqCF!tI;::..........,.......... ..            </tspan>
-    <tspan x="10" dy="1.1em">      .    ...........,..,.,.,.       ,::iltfruzUJCJQwwpqddpddbbbbdddpqLn!;..:Tv,...................  .          </tspan>
-    <tspan x="10" dy="1.1em">        ............,..,.,,.,,      ,::;IlfxzJLQmLmwqwqqqpbbbkbkddqqwLul:;;:j,,,,....,.,...............  .       </tspan>
-    <tspan x="10" dy="1.1em">    ................,,...,,,,F,    .:::i!TTjuYCQqwdbdqqpdbkkkkkkkdpqQCx;tlt:!.,,,,,,,.,.,,.............          </tspan>
-    <tspan x="10" dy="1.1em">     ................,,.,,,,,,I.   .::;;::IIltfrcJLmpdwwqwppqqmQQmwQLmQU!:I;!,,,,,,,,,,,,,,,.......... ... .     </tspan>
-    <tspan x="10" dy="1.1em">  .. .............,..,,,,,,,,..   ,:,.         ,;!juXcXXnnfti::IllFcvvUCx::,l,,,,,,,,,,,................ ..      </tspan>
-    <tspan x="10" dy="1.1em"> ..................., ...,...,F.  ,,,..,:;,:, ..,,;TuLLJuj!IiiTutxYJvzCztiII,,,,,,,,,,.,................         </tspan>
-    <tspan x="10" dy="1.1em">. . ..................,.,..,,,.r.  .,....,.. ;j,,..,tJdkpmXF!!I,I!ctxvLQv!l;i,,,,,,,,,,..................        </tspan>
-    <tspan x="10" dy="1.1em"> ....................,,,,,,,,,Fii   .:,,.,;lFrFrjI::;FLdbdpLcjjxzLQCLLQqwut!zQXX,,,,,,,,.,,................  .   </tspan>
-    <tspan x="10" dy="1.1em">.  ..............,,.,.,,,,,t!tti. ,:;!TtTTffFFFftIijLdbdddpwmmQLLmqddpwzcLpQnu;,,,,,,,,,,,.................     </tspan>
-    <tspan x="10" dy="1.1em">.   .............,,..,,,.,,,tfjFf;.,:itxXJJUYXzvj!IIxQdkddbbkkbbbddhhkdqLzqkqwuF,,,,,,,,,,..................     </tspan>
-    <tspan x="10" dy="1.1em">.  ..............,..,,.,,,,tFFttI,::itxXLLCJUznT!ItuQbakdddbbbbkkhhhhbpmzJdbbC:,,,,,,,,,,,,................ .   </tspan>
-    <tspan x="10" dy="1.1em"> . .................,,,,,,,,!!Tiifi,;;lFxXJUcxtIjcjTxCdahkkbdqLQdpkhkkdpLCLqpqF,,,,,,,,,,,,,....,.......... .    </tspan>
-    <tspan x="10" dy="1.1em">..................,,,,,,,,,,,fut,;i.:;ilTxvnfi,.,,:;!vCpmYJnLddYjzQpdpqwcJwpdF,,,,,,,,,,,,,,,,..,.............  </tspan>
-    <tspan x="10" dy="1.1em">...................,,,,.,,,,,,,zti, ::,:;lllI,.      ;Fj!ltfrXQLXjzLQLLQxJdb;,,,,,,,,,,,,,..,................    </tspan>
-    <tspan x="10" dy="1.1em">.  ..............,...,,,,,,,,,,UI;....,;;,. :..,.,,iIi.;liIltftlrrYQzXXjJb!,,,,,,,,,,,,,,,..,,.............     </tspan>
-    <tspan x="10" dy="1.1em"> .  ..................,,,,,,,,,,.c!, . .,. . ,.....;I!ftTi!il!i;,.TnQvXcFF;,,,,,,,,,,,,,.....,,,..........      </tspan>
-    <tspan x="10" dy="1.1em">  ....................,,,,,,,,,,,,;;.  ,,.     :iFFJdJbhbkwLnfT:.IUcvvfi,,,,,,,,,,,,,,,....,,,............       </tspan>
-    <tspan x="10" dy="1.1em">  ..................,,,,,,,,,,,,,,,it.. ...:i;:;;!FfUqcqqUqwmppQffYXxnT;:,,,,,,,,,,,,,,,,,.,,,................  </tspan>
-    <tspan x="10" dy="1.1em"> . ................,.,,,,,,,,,,,,,,,It.  ..,:I,::;itxvXvJJQwqpwLrnzXftt!:,,,,,,,,,,,,,,,,,,,,................   </tspan>
-    <tspan x="10" dy="1.1em">.. .............,,......,,,,,,,,,,,,,,i;     ,i..,iIIIIlifjuYUnfTFjjli;,,,,,,,,,,,,,,,..,,..................    </tspan>
-    <tspan x="10" dy="1.1em">   ..................,,,,,,,.,,,,,,,,,jf.     ,i::li:I,lirnrcXxT!:;ixc,,,,,,,,,,,,,,,..,,.,.................    </tspan>
-    <tspan x="10" dy="1.1em">  ...................,,,,,.,,,,,,,,,,,;;.     .,;;;IiItrFvYvxFfil:tQLv,,,,,,,,,,,,,,,.,..,,............. ...    </tspan>
-    <tspan x="10" dy="1.1em">.  .................,,,,,.,,,,,,,,,,,;uj,,.   . .,,:;jFlTttfFiti!cQmmQ;,,,,,,,,,,,,,,,.,,.,,,.,........... .    </tspan>
-    <tspan x="10" dy="1.1em">  . . ................,,,,,,,,,,,,,,ilII,,,,.     :::i,.,.,,,:irLQwQmput:,,,,,,,,,,,,,,,...................     </tspan>
-    <tspan x="10" dy="1.1em">     ..................,.,,,,,,,,,:Tu;f!:,,,,,... .:.    .,luUJCmmwQdoJti:,,,,,,,,,,,,..,,.............. .. .   </tspan>
-    <tspan x="10" dy="1.1em">     ..................,.,,,,,,,,Ic, ;Fjf;,,,.,:,,..,;ItFxcJCLQmmmmaMaCt!I;:,,,,,,,,,,,.,..................     </tspan>
-    <tspan x="10" dy="1.1em">   ...................,,..,,,,;:T.   iFjrFl,,,,,,:,::IFrzzXJCQmmwkMoooCT!II!zi;:,,,,,,,...,..,.............  .   </tspan>
-    <tspan x="10" dy="1.1em"> ................,,.,,,.,,jXl. .    :Tjjjjrx,:::::;::iFnYJCQmQkooMoooCTtII!!t!ljzl:,,,,.,,,,,..............     </tspan>
-    <tspan x="10" dy="1.1em">    .................,.,tn...        . IjxxuvvXYliiIllllTxzJLJqooMMMooaLft!ll!tTtl!!!tXT:,..................    </tspan>
-    <tspan x="10" dy="1.1em"> .   ..............ff:,.........  ....;fxucYCQQqbYfFjrxuzYUqooMMMMMoom!tFtlltTTTtl!l!!!!tFu,,............   .   </tspan>
-    <tspan x="10" dy="1.1em">     .........,Fri,.....,..,,,..... .,;trucUmpddkhahzxxrukoooMMMoMoooQ!tTft!lTTfft!!!!!!!!!ttjj;.........  .    </tspan>
-    <tspan x="10" dy="1.1em">  . ... ..jrI;,...,,,,,,,.,:::,,:....,lTrzYYLwdbhhYvdmntIfboooMoMMoMkc!tTTfftlttffT!l!!l!l!!!!ttt!tr;...  ..    </tspan>
-    <tspan x="10" dy="1.1em">     I!i;,,.,,,,.,,,:::,,.  ,::,.....,ljnXJCCwqU:.,;I!TfnrFfvbMoMMMopTltfffTTTFf!ll!!!!!!!!!!!!!!lllllli:.     </tspan>
-    <tspan x="10" dy="1.1em"> .;I;,....,.,,,,::::::,,,,,.,,,,,..,.:IxvULJQL!;.  .i!junr!;ItrbMooowt!TfTTfTTf!tTTTt!t!!!l!!!!!!!!llll!!ti.    </tspan>
-    <tspan x="10" dy="1.1em"> .:;,...,..,,::::;:::;::,:;;;:,,,,,..,itXULwQXFli.  .ijvx!lnCXrTxpohu!!fFTfTtTttTt!tt!l!!lll!tt!!!tttt!lltl,    </tspan>
-    <tspan x="10" dy="1.1em">  ,;:.,,,::::::;;;;:::..:;ii;:,:,,,..,IXcUmbbwYfII;  ;jn!FpahhhkkpJv!ITFfTfTt!TtttttTtl!!l!!!ttttTttTTt!ltl;.   </tspan>
-    <tspan x="10" dy="1.1em">. ,::.,,,,:::::;;;;;;:, ,;;;::,,:,,..,IXbbCpkdQctlI, ,TFILoaaahhaobX!ITfTfFTtIlt!ttTtt!!!l!!tTTtTTTTTTtll!l;.   </tspan>
-    <tspan x="10" dy="1.1em"> ..,i;,,:::;:;;;;;;;:;:..:;;;:::;:,,.,itQkLmkkpCvF!, lxftaoaahhhaapnI!FjFfTTfl!ll!tfTtt!!tttTTTTtTTtTTl;!lii.   </tspan>
-    <tspan x="10" dy="1.1em">  .,;;::,,:::;;;;;::::;:.,;;:::::,,,.,itQkqmkkbqJnI. ;rT;xaaahkhahmF;lTTTftTTT!lIltt!!!!!tttTTtttt!tt!lI!I;::   </tspan>
-    <tspan x="10" dy="1.1em">   .;I;,,,:::;;:;:;;:;;i,.:::;ii;:,,..;!QkpLdkkdJt. .ixTiTJhaahaakJTifTTTfffTlt!!fT!!!tt!ttTT!tttttttl:lI;;::.  </tspan>
-    <tspan x="10" dy="1.1em">   .:I;,,,,::;;;::::,:;i;,.:;:i;;:,..,:Ijqdmpkkpv:.  IFFljchhaaaadz!ltTTfjfTlT!tTT!!tTtTtTTTTTTt!!t!!I;li::;::  </tspan>
-    <tspan x="10" dy="1.1em">    .;;,,.,::;;;:::,,:;;i:.,;;iIi:,,..:I!mdmpkkQt. .,!frFFfvbhaahwj;lTfFfFTfTl!!ttt!tt!ttTTt!!tt!ttli:Il;:::::  </tspan>
-    <tspan x="10" dy="1.1em">    .,i:..,,:;;;:::,,,;:;:..:i;;;:,,..,i!mbwpkkYi. ,:!jrrrjXdkaabUtitfTtTff!!!tTfTtttTttTTt!!!!!!t!i;,Ii;:::::  </tspan>
-    <tspan x="10" dy="1.1em">     ,i,. .,:;;;;::,,:;:;;:..:ii;i:,..,:!xqwpkdu;..,;lfrrrrYpphapuIItTfffT!lT!fttTTttttTttlll!!!!!I;:;I;:::::,  </tspan>
+  <text x="10" y="20" class="ascii-text">
+    <tspan x="10" dy="1.15em">                                                                                                                 </tspan>
+    <tspan x="10" dy="1.15em">                                         .                        .     .                                        </tspan>
+    <tspan x="10" dy="1.15em">                                 .        ...        ....  .....  .   . .                                        </tspan>
+    <tspan x="10" dy="1.15em">                    .        ..  .. ....  ..........,,............ ...  .. .     .                               </tspan>
+    <tspan x="10" dy="1.15em">                    .           .. .. ..... ....,:...  .,..ifI,,.,.............                                  </tspan>
+    <tspan x="10" dy="1.15em">                        ......... ..........i        ..,I:l:,:,:;i,;IIl;:....... ......        .                 </tspan>
+    <tspan x="10" dy="1.15em">                        .    ...... ...,..    .             ..,l!I;iI!lI;Ii............    .                     </tspan>
+    <tspan x="10" dy="1.15em">                         .. .... . .tv     . .        ,. i:ll:,;IIiilIii;i;,...... ...  . .                      </tspan>
+    <tspan x="10" dy="1.15em">                      . ..........,I .  ;.  .        .::;ltl,,iI;, ,IiT!tilI:,...   .....                        </tspan>
+    <tspan x="10" dy="1.15em">          .        ... ..........,i         ;. ..,:;,.,I;.,.,,. .. ,..,;iltxt..,......... ..                     </tspan>
+    <tspan x="10" dy="1.15em">               ................,,            ...:::.I:l...I;.;, i:..   .;iITt:;,............. .  .               </tspan>
+    <tspan x="10" dy="1.15em">              ..... ............              .,;,.. ........:,.;l!, ..:Ii.lfii.,.............     .             </tspan>
+    <tspan x="10" dy="1.15em">          ....................:,          . ,,.  .:;l!r!TT;;,:i,I:;::.:;..I!!i:...................  .            </tspan>
+    <tspan x="10" dy="1.15em">             .................        .     ..;ItfruzUCQqqwwqddpUfTjl:;iII:il,.f..................  .            </tspan>
+    <tspan x="10" dy="1.15em">  .        .................,lui         .,:ItrvXXYYJCQpdppppdddbppY!IiiIil!tt,!:,.,,............. .....         </tspan>
+    <tspan x="10" dy="1.15em">       .  ...................l,        .,;ItTxvXYJJJCLmwpddbbkkkkbbdpwQx:;:,. .rl..................    .         </tspan>
+    <tspan x="10" dy="1.15em">        .............,,...,,,     ..,:;;!TfrvcXYUJLQwwpdpdbkhkbbhddqqCF!tI;::..........,.......... ..            </tspan>
+    <tspan x="10" dy="1.15em">      .    ...........,..,.,.,.       ,::iltfruzUJCJQwwpqddpddbbbbdddpqLn!;..:Tv,...................  .          </tspan>
+    <tspan x="10" dy="1.15em">        ............,..,.,,.,,      ,::;IlfxzJLQmLmwqwqqqpbbbkbkddqqwLul:;;:j,,,,....,.,...............  .       </tspan>
+    <tspan x="10" dy="1.15em">    ................,,...,,,,F,    .:::i!TTjuYCQqwdbdqqpdbkkkkkkkdpqQCx;tlt:!.,,,,,,,.,.,,.............          </tspan>
+    <tspan x="10" dy="1.15em">     ................,,.,,,,,,I.   .::;;::IIltfrcJLmpdwwqwppqqmQQmwQLmQU!:I;!,,,,,,,,,,,,,,,.......... ... .     </tspan>
+    <tspan x="10" dy="1.15em">  .. .............,..,,,,,,,,..   ,:,.         ,;!juXcXXnnfti::IllFcvvUCx::,l,,,,,,,,,,,................ ..      </tspan>
+    <tspan x="10" dy="1.15em"> ..................., ...,...,F.  ,,,..,:;,:, ..,,;TuLLJuj!IiiTutxYJvzCztiII,,,,,,,,,,.,................         </tspan>
+    <tspan x="10" dy="1.15em">. . ..................,.,..,,,.r.  .,....,.. ;j,,..,tJdkpmXF!!I,I!ctxvLQv!l;i,,,,,,,,,,..................        </tspan>
+    <tspan x="10" dy="1.15em"> ....................,,,,,,,,,Fii   .:,,.,;lFrFrjI::;FLdbdpLcjjxzLQCLLQqwut!zQXX,,,,,,,,.,,................  .   </tspan>
+    <tspan x="10" dy="1.15em">.  ..............,,.,.,,,,,t!tti. ,:;!TtTTffFFFftIijLdbdddpwmmQLLmqddpwzcLpQnu;,,,,,,,,,,,.................     </tspan>
+    <tspan x="10" dy="1.15em">.   .............,,..,,,.,,,tfjFf;.,:itxXJJUYXzvj!IIxQdkddbbkkbbbddhhkdqLzqkqwuF,,,,,,,,,,..................     </tspan>
+    <tspan x="10" dy="1.15em">.  ..............,..,,.,,,,tFFttI,::itxXLLCJUznT!ItuQbakdddbbbbkkhhhhbpmzJdbbC:,,,,,,,,,,,,................ .   </tspan>
+    <tspan x="10" dy="1.15em"> . .................,,,,,,,,!!Tiifi,;;lFxXJUcxtIjcjTxCdahkkbdqLQdpkhkkdpLCLqpqF,,,,,,,,,,,,,....,.......... .    </tspan>
+    <tspan x="10" dy="1.15em">..................,,,,,,,,,,,fut,;i.:;ilTxvnfi,.,,:;!vCpmYJnLddYjzQpdpqwcJwpdF,,,,,,,,,,,,,,,,..,.............  </tspan>
+    <tspan x="10" dy="1.15em">...................,,,.,,,,,,,zti, ::,:;lllI,.      ;Fj!ltfrXQLXjzLQLLQxJdb;,,,,,,,,,,,,,..,................    </tspan>
+    <tspan x="10" dy="1.15em">.  ..............,...,,,,,,,,,,UI;....,;;,. :..,.,,iIi.;liIltftlrrYQzXXjJb!,,,,,,,,,,,,,,,..,,.............     </tspan>
+    <tspan x="10" dy="1.15em"> .  ..................,,,,,,,,,,.c!, . .,. . ,.....;I!ftTi!il!i;,.TnQvXcFF;,,,,,,,,,,,,,.....,,,..........      </tspan>
+    <tspan x="10" dy="1.15em">  ....................,,,,,,,,,,,,;;.  ,,.     :iFFJdJbhbkwLnfT:.IUcvvfi,,,,,,,,,,,,,,,....,,,............       </tspan>
+    <tspan x="10" dy="1.15em">  ..................,,,,,,,,,,,,,,,it.. ...:i;:;;!FfUqcqqUqwmppQffYXxnT;:,,,,,,,,,,,,,,,,,.,,,................  </tspan>
+    <tspan x="10" dy="1.15em"> . ................ discharge.,,,,,,,,,,,,,,,It.  ..,:I,::;itxvXvJJQwqpwLrnzXftt!:,,,,,,,,,,,,,,,,,,,,................   </tspan>
+    <tspan x="10" dy="1.15em">.. .............,,......,,,,,,,,,,,,,,i;     ,i..,iIIIIlifjuYUnfTFjjli;,,,,,,,,,,,,,,,..,,..................    </tspan>
+    <tspan x="10" dy="1.15em">   ..................,,,,,,,.,,,,,,,,,jf.     ,i::li:I,lirnrcXxT!:;ixc,,,,,,,,,,,,,,,..,,.,.................    </tspan>
+    <tspan x="10" dy="1.15em">  ...................,,,,,.,,,,,,,,,,,;;.     .,;;;IiItrFvYvxFfil:tQLv,,,,,,,,,,,,,,,.,..,,............. ...    </tspan>
+    <tspan x="10" dy="1.15em">.  .................,,,,,.,,,,,,,,,,,;uj,,.   . .,,:;jFlTttfFiti!cQmmQ;,,,,,,,,,,,,,,,.,,.,,,.,........... .    </tspan>
+    <tspan x="10" dy="1.15em">  . . ................,,,,,,,,,,,,,,ilII,,,,.     :::i,.,.,,,:irLQwQmput:,,,,,,,,,,,,,,,...................     </tspan>
+    <tspan x="10" dy="1.15em">     ..................,.,,,,,,,,,:Tu;f!:,,,,,... .:.    .,luUJCmmwQdoJti:,,,,,,,,,,,,..,,.............. .. .   </tspan>
+    <tspan x="10" dy="1.15em">     ..................,.,,,,,,,,Ic, ;Fjf;,,,.,:,,..,;ItFxcJCLQmmmmaMaCt!I;:,,,,,,,,,,,.,..................     </tspan>
+    <tspan x="10" dy="1.15em">   ...................,,..,,,,;:T.   iFjrFl,,,,,,:,::IFrzzXJCQmmwkMoooCT!II!zi;:,,,,,,,...,..,.............  .   </tspan>
+    <tspan x="10" dy="1.15em"> ................,,.,,,.,,jXl. .    :Tjjjjrx,:::::;::iFnYJCQmQkooMoooCTtII!!t!ljzl:,,,,.,,,,,..............     </tspan>
+    <tspan x="10" dy="1.15em">    .................,.,tn...        . IjxxuvvXYliiIllllTxzJLJqooMMMooaLft!ll!tTtl!!!tXT:,..................    </tspan>
+    <tspan x="10" dy="1.15em"> .   ..............ff:,.........  ....;fxucYCQQqbYfFjrxuzYUqooMMMMMoom!tFtlltTTTtl!l!!!!tFu,,............   .   </tspan>
+    <tspan x="10" dy="1.15em">     .........,Fri,.....,..,,,..... .,;trucUmpddkhahzxxrukoooMMMoMoooQ!tTft!lTTfft!!!!!!!!!ttjj;.........  .    </tspan>
+    <tspan x="10" dy="1.15em">  . ... ..jrI;,...,,,,,,,.,:::,,:....,lTrzYYLwdbhhYvdmntIfboooMoMMoMkc!tTTfftlttffT!l!!l!l!!!!ttt!tr;...  ..    </tspan>
+    <tspan x="10" dy="1.15em">     I!i;,,.,,,,.,,,:::,,.  ,::,.....,ljnXJCCwqU:.,;I!TfnrFfvbMoMMMopTltfffTTTFf!ll!!!!!!!!!!!!!!lllllli:.     </tspan>
+    <tspan x="10" dy="1.15em"> .;I;,....,.,,,,::::::,,,,,.,,,,,..,.:IxvULJQL!;.  .i!junr!;ItrbMooowt!TfTTfTTf!tTTTt!t!!!l!!!!!!!!llll!!ti.    </tspan>
+    <tspan x="10" dy="1.15em"> .:;,...,..,,::::;:::;::,:;;;:,,,,,..,itXULwQXFli.  .ijvx!lnCXrTxpohu!!fFTfTtTttTt!tt!l!!lll!tt!!!tttt!lltl,    </tspan>
+    <tspan x="10" dy="1.15em">  ,;:.,,,::::::;;;;:::..:;ii;:,:,,,..,IXcUmbbwYfII;  ;jn!FpahhhkkpJv!ITFfTfTt!TtttttTtl!!l!!!ttttTttTTt!ltl;.   </tspan>
+    <tspan x="10" dy="1.15em">. ,::.,,,,:::::;;;;;;:, ,;;;::,,:,,..,IXbbCpkdQctlI, ,TFILoaaahhaobX!ITfTfFTtIlt!ttTtt!!!l!!tTTtTTTTTTtll!l;.   </tspan>
+    <tspan x="10" dy="1.15em"> ..,i;,,:::;:;;;;;;;:;:..:;;;:::;:,,.,itQkLmkkpCvF!, lxftaoaahhhaapnI!FjFfTTfl!ll!tfTtt!!tttTTTTtTTtTTl;!lii.   </tspan>
+    <tspan x="10" dy="1.15em">  .,;;::,,:::;;;;;::::;:.,;;:::::,,,.,itQkqmkkbqJnI. ;rT;xaaahkhahmF;lTTTftTTT!lIltt!!!!!tttTTtttt!tt!lI!I;::   </tspan>
+    <tspan x="10" dy="1.15em">   .;I;,,,:::;;:;:;;:;;i,.:::;ii;:,,..;!QkpLdkkdJt. .ixTiTJhaahaakJTifTTTfffTlt!!fT!!!tt!ttTT!tttttttl:lI;;::.  </tspan>
+    <tspan x="10" dy="1.15em">   .:I;,,,,::;;;::::,:;i;,.:;:i;;:,..,:Ijqdmpkkpv:.  IFFljchhaaaadz!ltTTfjfTlT!tTT!!tTtTtTTTTTTt!!t!!I;li::;::  </tspan>
+    <tspan x="10" dy="1.15em">    .;;,,.,::;;;:::,,:;;i:.,;;iIi:,,..:I!mdmpkkQt. .,!frFFfvbhaahwj;lTfFfFTfTl!!ttt!tt!ttTTt!!tt!ttli:Il;:::::  </tspan>
+    <tspan x="10" dy="1.15em">    .,i:..,,:;;;:::,,,;:;:..:i;;;:,,..,i!mbwpkkYi. ,:!jrrrjXdkaabUtitfTtTff!!!tTfTtttTttTTt!!!!!!t!i;,Ii;:::::  </tspan>
+    <tspan x="10" dy="1.15em">     ,i,. .,:;;;;::,,:;:;;:..:ii;i:,..,:!xqwpkdu;..,;lfrrrrYpphapuIItTfffT!lT!fttTTttttTttlll!!!!!I;:;I;:::::,  </tspan>
   </text>
 </svg>
