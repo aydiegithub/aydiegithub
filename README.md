@@ -4,6 +4,8 @@
 
 ### AI/ML Engineer
 
+<br/>
+
 <img src="./art-svg.svg" alt="Aditya Dinesh K Animated ASCII Art" width="100%" />
 
 <br/>
